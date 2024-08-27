@@ -33,7 +33,7 @@
     --encriptarBackground: #3c3c68;
     --borderState: hidden;
     --hooverColor: hsl(240, 47%, 23%);
-    --logo: url("./Imagenes/whiteLogo.png")
+    --logo: url("./Imagenes/logoBlanco.png")
 }
 
 body{
